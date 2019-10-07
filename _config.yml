@@ -1,18 +1,19 @@
 # Header
-navname: Bentham's Blog
+navname: 
+show_theme_switch: false
 
 # navigatior items
-nav:
-  Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /about
+# nav:
+  # Posts: /archives
+  # Categories: /category
+  # Tags: /tag
+  # About: /about
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Haiyang WU
 
 ### this variable is MarkDown form.
 description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
@@ -23,7 +24,7 @@ avatar: /image/avatar.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+#  Blog: /archives
 #  Category:
 #  Tags: 
 #  Link:
@@ -33,8 +34,8 @@ links:
 #  Gallary:
 #  RSS:
 #  AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-#  LinkedIn:
+#  ZhiHu: https://www.zhihu.com/people/sirice
+  LinkedIn: https://www.linkedin.com/in/wuhaiyang/
 #  FaceBook:
 #  Twitter:
 #  Skype:
@@ -43,13 +44,13 @@ links:
 #  Sketch:
 #  Gitlab:
 #  Dribble:
-  Instagram:
-  Reddit:
+#  Instagram:
+#  Reddit:
 #  YouTube:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/haiyangwu
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
