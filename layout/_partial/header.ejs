@@ -21,7 +21,9 @@
                 <div>
                     <a href="<%- config.root %>"><%= theme.navname %></a><a id="mobile-toggle-theme">·&nbsp;Light</a>
                 </div>
-                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+                <%if (theme.nav){ %>
+                    <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+                <%}%>
             </div>
             <%if (theme.nav){ %>
                 <div class="menu" id="mobile-menu">

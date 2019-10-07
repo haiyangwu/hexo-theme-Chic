@@ -13,10 +13,11 @@ show_theme_switch: false
 favicon: /favicon.ico
 
 # Profile
-nickname: Haiyang WU
+nickname: Haiyang Wu
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: Skilled in <br> **Android**, **WebRTC**, **Java**, **C++** <br> 
+# description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
 avatar: /image/avatar.jpeg
 
 # main menu navigation
