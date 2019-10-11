@@ -25,7 +25,7 @@ avatar: /image/avatar.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-#  Blog: /archives
+ Blog: https://juejin.im/user/5d8b50ee6fb9a04e1a3ba60d
 #  Category:
 #  Tags: 
 #  Link:
@@ -36,7 +36,7 @@ links:
 #  RSS:
 #  AliPay:
 #  ZhiHu: https://www.zhihu.com/people/sirice
-  LinkedIn: https://www.linkedin.com/in/wuhaiyang/
+ LinkedIn: https://www.linkedin.com/in/wuhaiyang/
 #  FaceBook:
 #  Twitter:
 #  Skype:
@@ -51,7 +51,7 @@ links:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/haiyangwu
+ Github: https://github.com/haiyangwu
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
